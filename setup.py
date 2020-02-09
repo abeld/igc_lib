@@ -6,6 +6,7 @@ setup(
     version='0.1',
 
     packages=['igc_lib',
+              'igc_lib.lib',
               ],
     install_requires=[
         'simplekml >= 1.2.2',
